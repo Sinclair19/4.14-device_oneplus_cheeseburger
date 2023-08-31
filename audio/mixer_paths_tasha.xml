@@ -2616,7 +2616,6 @@
         <path name="speaker" />
     </path>
 
-<<<<<<< HEAD
     <path name="speaker-safe">
         <path name="speaker-mono" />
     </path>
@@ -2637,24 +2636,6 @@
         <ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="1" />
     </path>
 
-=======
-    <path name="speaker-vbat-mono">
-        <path name="speaker-mono" />
-        <ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="1" />
-    </path>
-
-    <path name="speaker-vbat-mono-2">
-        <path name="speaker-mono-2" />
-        <ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="1" />
-    </path>
-
-    <path name="speaker-vbat">
-        <path name="speaker" />
-        <ctl name="RX INT7 VBAT SPKRL VBAT Enable" value="1" />
-        <ctl name="RX INT8 VBAT SPKRR VBAT Enable" value="1" />
-    </path>
-
->>>>>>> 210928b17a907188ce64e8f3899e806e3c382a9a
     <path name="sidetone-iir">
         <ctl name="IIR0 Enable Band1" value="1" />
         <ctl name="IIR0 Enable Band2" value="1" />
